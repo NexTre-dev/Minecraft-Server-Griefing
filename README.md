@@ -2,3 +2,5 @@
 
 # Minecraft-Server-Griefing
 A documentation for Minecraft Server Griefing
+
+**ReadME W.I.P**
