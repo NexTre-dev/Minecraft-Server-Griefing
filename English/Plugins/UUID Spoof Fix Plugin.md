@@ -1,4 +1,4 @@
-##### This is only working with servers with `online mode` turned on.
+##### This is only working with servers with `online-mode` turned on.
 ##### You can read more about UUID Spoofing [here](https://github.com/NexTre-dev/Minecraft-Server-Griefing/blob/main/English/Exploiting/UUIDSpoofing.md)
 
 # UUID Spoof Fix | Plugin Bypasses
