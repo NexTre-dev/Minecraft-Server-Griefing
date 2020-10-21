@@ -1,4 +1,4 @@
-##### This is for servers with `online mode` turned off.
+##### This is only working with servers with `online mode` turned on.
 ##### You can read more about UUID Spoofing here:
 
 # UUID Spoof Fix | Plugin Bypasses
